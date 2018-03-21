@@ -7,4 +7,6 @@
 
 16. [Use generator if function returns list](generator/)
 
+29. [Use attributes than getter/setter](property/)
+
 49. [Make docstring on every funcs, classes, modules](docstring/)
