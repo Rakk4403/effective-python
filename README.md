@@ -7,6 +7,8 @@
 
 16. [Use generator if function returns list](generator/)
 
+20. [Use None as dynamic default parameter, with docstring](function/)
+
 25. [Use super() to initiate base class](inheritance/)
 
 29. [Use attributes than getter/setter](property/)
